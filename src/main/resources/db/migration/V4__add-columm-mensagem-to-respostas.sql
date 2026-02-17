@@ -1,0 +1,1 @@
+ALTER TABLE respostas ADD mensagem TEXT NOT NULL;
