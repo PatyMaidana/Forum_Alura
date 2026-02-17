@@ -129,12 +129,6 @@ Contribuição
 - Abra um issue descrevendo o bug ou feature, ou envie um PR.
 
 Licença
-- Projeto exemplo - ver mantenedor.
-
+- MIT
 ---
-Se quiser, eu posso também:
-- Adicionar instruções para criar um usuário inicial no banco (script SQL ou data seeding).
-- Ajustar o `CorsConfiguration` para permitir múltiplas origens durante desenvolvimento.
-- Adicionar um `application-dev.properties` de exemplo com variáveis de ambiente.
-
 
